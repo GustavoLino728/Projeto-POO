@@ -5,6 +5,20 @@ GiuCortesFreestyle é um sistema desenvolvido para facilitar o agendamento de co
 O projeto busca modernizar o processo de marcação de horários, permitindo que clientes façam reservas online, 
 editem ou cancelem compromissos, além de gerenciar seus perfis.
 
+## 🔗 Links do Projeto
+---
+<br>
+<a href="https://trello.com/invite/b/67db31973176211a647f7134/ATTI70be2f70dd5fde3bf304746c8d65367a25D5ED40/trabalho-programacao-orientada-a-objeto-barbearia">
+Trello
+</a>
+<a href="https://www.figma.com/design/eUPMeF3Suui8iQ5W0dQsY4/JaVaCortando?node-id=0-1&t=rCHhRQjuv40g83jF-1">
+Figma
+</a>
+
+
+<h1>📃 Histórias</h1>
+
+
 ## 🌐 Autores
 ---
 <br>
