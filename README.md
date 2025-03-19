@@ -11,7 +11,7 @@ editem ou cancelem compromissos, além de gerenciar seus perfis.
  <a href="https://trello.com/invite/b/67db31973176211a647f7134/ATTI70be2f70dd5fde3bf304746c8d65367a25D5ED40/trabalho-programacao-orientada-a-objeto-barbearia">
   <img align="center" alt="Trello" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
  </a>
- <br>
+
  <a href="https://www.figma.com/design/eUPMeF3Suui8iQ5W0dQsY4/JaVaCortando?node-id=0-1&t=rCHhRQjuv40g83jF-1">
   <img align="center" alt="Figma" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg">
  </a>
