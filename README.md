@@ -6,7 +6,6 @@ O projeto busca modernizar o processo de marcação de horários, permitindo que
 editem ou cancelem compromissos, além de gerenciar seus perfis.
 
 ## 🔗 Links do Projeto
----
 <div style="display: inline_block">
  <a href="https://trello.com/invite/b/67db31973176211a647f7134/ATTI70be2f70dd5fde3bf304746c8d65367a25D5ED40/trabalho-programacao-orientada-a-objeto-barbearia">
   <img align="center" alt="Trello" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
@@ -18,13 +17,14 @@ editem ou cancelem compromissos, além de gerenciar seus perfis.
 </div>
 
 
-<h1>📃 Histórias</h1>
-
+<h1>📃 Entregas</h1>
+<h2>Entrega 1</h2>
+<div style="display: flex; flex-direction: column;">
+  <a href="https://youtu.be/8Q1tQ8D2EZQ?si=sDhOYCMUrof_788Q">Link do vídeo no YouTube</a>
+  <a href="https://trello.com/invite/b/67db31973176211a647f7134/ATTI70be2f70dd5fde3bf304746c8d65367a25D5ED40/trabalho-programacao-orientada-a-objeto-barbearia">Link histórias de usuário</a>
+</div>
 
 ## 🌐 Autores
----
-<br>
-
 <a href="https://github.com/DavidaMendes">
  <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/166074227?v=4" width="100px;" alt="Victor"/>
 </a>
